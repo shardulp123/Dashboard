@@ -1,5 +1,7 @@
 # Dashboard Project 
-This is my Dasboard Project for Attration Analysis
+This is my Dasboard Project for Attration Analysis.
+
+Description;- Power BI based Project. Help an organization to improve employee retention by creating HR Analytics Dashboard.
 
 
 
